@@ -19,3 +19,5 @@ These tools will be tested in the field by architects and designers for use in c
 AI allows designers to investigate a broader range of design concepts from a fresh perspective. 
 These technologies increase the chance of serendipity, hence broadening the range of creative capabilities beyond traditional methods. 
 They make it easier to manipulate data and come up with creative solutions to creative problems. 
+
+![arche](https://user-images.githubusercontent.com/59840966/214160909-b0c7fee9-fc23-4d3e-9fcf-f429c25dfb29.png)
