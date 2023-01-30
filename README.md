@@ -1,4 +1,4 @@
-# Arch-E
+# Architectural Intelligence
 Text to Image app generator for architectural design concepts
 
 ## Abstract and Figures
