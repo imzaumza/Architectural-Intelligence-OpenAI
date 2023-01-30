@@ -20,4 +20,7 @@ AI allows designers to investigate a broader range of design concepts from a fre
 These technologies increase the chance of serendipity, hence broadening the range of creative capabilities beyond traditional methods. 
 They make it easier to manipulate data and come up with creative solutions to creative problems. 
 
-![arche](https://user-images.githubusercontent.com/59840966/214160909-b0c7fee9-fc23-4d3e-9fcf-f429c25dfb29.png)
+![ai 2](https://user-images.githubusercontent.com/59840966/215599080-92cf110e-e61a-48b3-b9aa-d4618524b2f6.png)
+
+
+![ai](https://user-images.githubusercontent.com/59840966/215599100-702fa46c-1a4b-4717-9382-5078c80e5dc3.png)
