@@ -1,7 +1,7 @@
 # Architectural Intelligence
 Text to Image app generator for architectural design concepts
 
-url: https://architecture-intelligence.000webhostapp.com/
+url: https://architecture-intelligence.000webhostapp.com
 
 ## Abstract and Figures
 As technology advances, artificial intelligence (AI) may play a larger role in building design and construction. 
